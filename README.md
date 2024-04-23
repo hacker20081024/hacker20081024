@@ -1,5 +1,5 @@
 
-<h2>A Self Introduction Letter From Anthor</h2>
+<h2>A Self Introduction Letter From Author</h2>
 <hr/>
 <p><pre>From: hacker20081024@163.com</pre></p>
 <p><pre>To:   Every Programing Enthusiasts</pre></p>
