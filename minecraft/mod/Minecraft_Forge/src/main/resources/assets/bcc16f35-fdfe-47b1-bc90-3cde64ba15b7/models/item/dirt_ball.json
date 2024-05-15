@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "bcc16f35-fdfe-47b1-bc90-3cde64ba15b7:item/dirt_ball"
+  }
+}
