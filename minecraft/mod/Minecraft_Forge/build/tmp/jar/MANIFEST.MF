@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: Minecraft_Forge
-Implementation-Version: 1.0
-Specification-Vendor: examplemodsareus
-Specification-Title: examplemod
-Implementation-Timestamp: 2024-05-16T01:37:25+0800
-Specification-Version: 1
-Implementation-Vendor: examplemodsareus
-
