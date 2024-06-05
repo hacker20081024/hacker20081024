@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: PotatoServerAdminMod
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-06-05T19:45:40+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
