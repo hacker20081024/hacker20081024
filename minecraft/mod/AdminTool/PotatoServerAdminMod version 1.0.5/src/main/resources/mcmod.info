@@ -1,0 +1,16 @@
+[
+{
+  "modid": "github-hacker20081024-admintool",
+  "name": "Admin Tool",
+  "description": "该模组为Java版Minecraft服务器管理员提供了更加强大的管理命令,例如: admin, ban-admin, privilege, ping 等命令",
+  "version": "1.0.5",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/hacker20081024/hacker20081024/tree/main/minecraft/mod/AdminTool",
+  "updateUrl": "https://github.com/hacker20081024/hacker20081024/tree/main/minecraft/mod/AdminTool",
+  "authorList": ["aisi163(GitHub:hacker20081024, 网易_163_Email:hacker20081024@163.com, Wechat_Number:admin13698792705)","b清茶tea(???)","六道轮回----神帝,null(???)","双方各的的(???)","苹果味香蕉敲好处,000(???)","蹦极的负重蛇将梗,<<工具人(???)","苏源,suyuany(???)","哲学者穿,白茶(???)"],
+  "credits": "MIT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
